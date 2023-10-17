@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0001",
+        "title": "Viețile Sfinților pe luna Ianuarie",
+        "author": "",
+        "page": "640",
+        "exemplare": "1",
+        "domain": "Viețile Sfinților",
+        "description": "Viețile Sfinților pe luna Ianuarie",
+        "isbn": "9799739509342"
+    },
+    {
+        "id": "0002",
+        "title": "Viețile Sfinților pe luna Februarie",
+        "author": "",
+        "page": "360",
+        "exemplare": "1",
+        "domain": "Viețile Sfinților",
+        "description": "Viețile Sfinților pe luna Februarie",
+        "isbn": "9786068217130"
+    },
+    {
+        "id": "0013",
+        "title": "Teologia Dogmatică Ortodoxă; Volumul 1",
+        "author": "Pr. Prof. Dr. Dumitru Stăniloae",
+        "page": "528",
+        "exemplare": "1",
+        "domain": "Dogmatică",
+        "description": "Teologia Dogmatică Ortodoxă",
+        "isbn": "9789736161490"
+    },
+    {
+        "id": "0016",
+        "title": "Filocalia sfintelor nevoințe ale desăvârșirii; Volumul 1",
+        "author": "Sfântul Antonie cel Mare; Evagrie Ponticul; Sfântul Ioan Casian; Nil Ascetul; Marcu Ascetul; Diadoh al Foticeei; Isaia Pustnicul",
+        "page": "364",
+        "exemplare": "1",
+        "domain": "Filocalia",
+        "description": "Filocalia sfintelor nevoințe ale desăvârșirii",
+        "isbn": "9799739509359"
+    }
+]

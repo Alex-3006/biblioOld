@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0001",
+        "name": "Alexandru Sporis",
+        "password": "A2l0e0x6",
+        "telephon": "+491772590195"
+    },
+    {
+        "id": "0002",
+        "name": "Daniel Buzaș",
+        "password": "Daniel90",
+        "telephon": "+49xxxxxxxxxx"
+    },
+    {
+        "id": "0003",
+        "name": "Ovidiu Nistor",
+        "password": "Ovidiu02",
+        "telephon": "+49xxxxxxxxxx"
+    }
+]
