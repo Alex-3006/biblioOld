@@ -42,6 +42,8 @@ export default function Page() {
       if (passwordUser() == true) {
         lended = true;
       }
+    } else {
+      alert("Parola, ID al persoanei sau ID al carti sunt gresite")
     }
 
     let bookOccupied = false;
@@ -51,6 +53,10 @@ export default function Page() {
         bookOccupied = true;
       }
     });
+
+    if(bookOccupied == true){
+      alert("Cartea este deja occupata")
+    }
 
     let lendMessage;
 
@@ -62,7 +68,8 @@ export default function Page() {
       };
 
       console.log(lendMessage);
-      sendDataToServer(lendMessage);
+      lendFile.push(lendMessage)
+      sendDataToServer(lendFile);
     }
   };
 
@@ -74,6 +81,10 @@ export default function Page() {
         isPassword = true;
       }
     });
+
+    if(isPassword == false){
+      alert("Parola sau ID sunt gresit")
+    }
 
     return isPassword;
   }
